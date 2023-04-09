@@ -2,7 +2,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
 
 ### `yarn start`
@@ -23,7 +22,6 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 
-### `yarn eject`
 
 
 
