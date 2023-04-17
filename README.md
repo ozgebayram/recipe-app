@@ -6,7 +6,6 @@
 ### `yarn start`
 
 
-The page will reload when you make changes.\
 
 
 ### `yarn build`
